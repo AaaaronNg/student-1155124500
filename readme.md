@@ -11,3 +11,4 @@
 | -------------------- | -------------------------- | ------------------------- |
 | do not like reading  |   find reading acceptable  |        love reading       |
 | do not like exercise | find badminton interesting | happily playing badminton |
+![Screenshot of commands](screenshot.png)
